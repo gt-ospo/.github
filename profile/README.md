@@ -1,0 +1,5 @@
+## Georgia Tech Open Source Program Office (OSPO)
+
+This is the public Github organization for the [Open Source Program Office](https://ospo.cc.gatech.edu/), an organization focused on supporting open source efforts at the Georgia Institute of Technology. This new OSPO combines expertise from Georgia Tech’s [Center for Scientific Software Engineering Center (CSSE)](https://ssecenter.cc.gatech.edu/), the [Partnership for Advanced Computing Environment (PACE)](https://www.pace.gatech.edu/), and [Georgia Tech’s Library](https://www.library.gatech.edu/).
+
+This new OSPO will support a host of activities, including the development of community-driven guidelines for open source software projects on campus, support for faculty-driven open source software projects, workshops and training events targeting both GT students and faculty, and two undergraduate internship programs: one over the summer and another during the school year. The OSPO also plans to support outreach activities outside the GT campus, with a particular focus on faculty and students at institutions in the Atlanta area.
